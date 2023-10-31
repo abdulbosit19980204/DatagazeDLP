@@ -9,5 +9,5 @@ secure data practices to reduce accidental exposure.
 5. make as ignored this path " C:\ProgramData\Public Cache\{53354523-0919-4b2a-ba62-1a0368b63362}" on antivirus
 6. "PrinterController.exe", "DgaMonitor.exe", "DbParser.exe" are must be runnig with out any barier or limitation
 7. check the version of OS (ubuntu or centos) using this command => lsb_release -a
-8. Install "agent.msi" on client's computer. Can use one-o-one or Active directory 
-7.  
+8. Install "agent.msi" on client's computer. Can use one-o-one or Active directory
+7.   
